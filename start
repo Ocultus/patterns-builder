@@ -1,0 +1,8 @@
+#!bin/sh
+
+kotlinc ./src/main/kotlin/*.kt -include-runtime -d project.jar
+reset
+clear
+java -jar project.jar
+
+rm project.jar
