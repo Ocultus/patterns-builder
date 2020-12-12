@@ -1,6 +1,6 @@
 # Date Printer
 
-Kotlin implementation of pattern Adapter
+Kotlin implementation of pattern Builder
 
 ### How to start
 1. Clone this repository.
